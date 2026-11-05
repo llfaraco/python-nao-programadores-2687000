@@ -1,3 +1,5 @@
+> **Repositório de estudos:** material do curso Python para Não Programadores, do LinkedIn Learning, ministrado por Ana Cecília Vieira. Mantido neste perfil para aprendizado. A autoria original, a licença e os créditos abaixo são preservados; este material não é apresentado como um produto autoral.
+
 # Python para Não Programadores
  
 Este é o repositório do curso de LinkedIn Learning `Python para Não Programadores`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
